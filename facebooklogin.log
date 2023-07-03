@@ -1,0 +1,15 @@
+03/07/2023 09:10:46 PM: INFO: test_loginfacebook: setUp: testcase started
+03/07/2023 09:10:56 PM: INFO: test_loginfacebook: setUp: Web browser successfuly opened
+03/07/2023 09:10:56 PM: INFO: test_loginfacebook: test_login_function: url entered
+03/07/2023 09:11:05 PM: INFO: test_loginfacebook: test_login_function: username entered
+03/07/2023 09:11:05 PM: INFO: test_loginfacebook: test_login_function: password entered
+03/07/2023 09:11:05 PM: INFO: test_loginfacebook: test_login_function: clicked on login button
+03/07/2023 09:11:10 PM: INFO: test_loginfacebook: tearDown: browser succcessfuly closed
+03/07/2023 09:14:34 PM: INFO: test_loginfacebook: setUp: testcase started
+03/07/2023 09:14:43 PM: INFO: test_loginfacebook: setUp: Web browser successfuly opened
+03/07/2023 09:14:43 PM: INFO: test_loginfacebook: test_login_function: url entered
+03/07/2023 09:14:47 PM: INFO: test_loginfacebook: test_login_function: username entered
+03/07/2023 09:14:47 PM: INFO: test_loginfacebook: test_login_function: password entered
+03/07/2023 09:14:47 PM: INFO: test_loginfacebook: test_login_function: clicked on login button
+03/07/2023 09:15:03 PM: INFO: test_loginfacebook: tearDown: browser succcessfuly closed
+03/07/2023 09:15:06 PM: INFO: test_loginfacebook: tearDown: UnitTest pass
