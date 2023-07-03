@@ -1,0 +1,7 @@
+03/07/2023 09:45:48 PM: INFO: test_search_python_page_on_web: PythonOrgSearch: UnitTest started
+03/07/2023 09:45:57 PM: INFO: test_search_python_page_on_web: setUp: browser successfully opened
+03/07/2023 09:45:57 PM: INFO: test_search_python_page_on_web: test_search_in_python_org: URL entered
+03/07/2023 09:46:05 PM: INFO: test_search_python_page_on_web: test_search_in_python_org: web page successfully opened
+03/07/2023 09:46:05 PM: INFO: test_search_python_page_on_web: test_search_in_python_org: pycon typed in search box
+03/07/2023 09:46:05 PM: INFO: test_search_python_page_on_web: tearDown: UnitTest pass
+03/07/2023 09:46:08 PM: INFO: test_search_python_page_on_web: tearDown: browser successfully closed
